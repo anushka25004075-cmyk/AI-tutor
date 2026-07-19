@@ -1,0 +1,22 @@
+# Core LangChain dependencies
+langchain==0.3.14
+langchain-core==0.3.29
+langchain-community==0.3.14
+langchain-groq==0.2.1
+
+# Search and utilities
+tavily-python==0.5.0
+requests==2.32.3
+python-dotenv==1.0.1
+
+# Data handling
+pydantic>=2.0.0,<3.0.0
+
+# Streamlit for web interface
+streamlit==1.32.0
+
+# Optional but recommended
+python-multipart==0.0.9
+
+# Note: Compatible with Python 3.11
+# Install with: pip install -r requirements.txt
